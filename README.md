@@ -2,6 +2,10 @@
 
 
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/101630615/205503528-87f39c72-034a-42b9-ae41-4b6679bf30e5.gif)
+
+
+
 #### 필요 기능
 
 | 1    | todo 리스트 목록에 아이템을 추가        |
@@ -14,7 +18,7 @@
 
 
 
-#### api
+### api
 
 | [method](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html) | endpoint | 기능                  | request                              | response                                                     |
 | ------------------------------------------------------------ | -------- | --------------------- | ------------------------------------ | ------------------------------------------------------------ |
@@ -31,3 +35,4 @@
 
 [테스트 사이트](https://www.todobackend.com/specs/index.html)
 
+##### 
