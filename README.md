@@ -2,7 +2,7 @@
 
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/101630615/205503528-87f39c72-034a-42b9-ae41-4b6679bf30e5.gif)
+<p align="center"><img src ="https://user-images.githubusercontent.com/101630615/205503528-87f39c72-034a-42b9-ae41-4b6679bf30e5.gif" width="1300px"></p>
 
 
 
